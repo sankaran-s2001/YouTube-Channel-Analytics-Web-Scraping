@@ -1,4 +1,4 @@
-# 📺 YouTube Channel Analytics - Web Scraping Project
+# 📺 YouTube Channel Analytics - Web Scraping
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=selenium&logoColor=white) ![YouTube API](https://img.shields.io/badge/YouTube%20API-FF9800?style=for-the-badge&logo=googlecloud&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-9C27B0?style=for-the-badge&logo=databricks&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-1572B6?style=for-the-badge&logo=files&logoColor=white)  
 
